@@ -1,0 +1,7 @@
+django==2.2.9
+djangorestframework
+pyrogram
+aiohttp
+psycopg2-binary
+Pillow
+django-debug-toolbar
